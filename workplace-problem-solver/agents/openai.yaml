@@ -1,0 +1,4 @@
+interface:
+  display_name: "职场问题解决顾问"
+  short_description: "诊断职场问题，生成可直接使用的话术、行动计划与风险边界"
+  default_prompt: "Use $workplace-problem-solver to diagnose this workplace situation and give me ready-to-use wording and an action plan."

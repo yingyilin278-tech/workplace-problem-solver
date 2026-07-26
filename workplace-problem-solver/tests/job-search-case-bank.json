@@ -1,0 +1,277 @@
+{
+  "questions": [
+    {
+      "id": "J1-001",
+      "category_id": "J1",
+      "category": "方向定位与求职策略",
+      "question": "我现在在运营岗做了两年，想转产品，但又担心断收入，应该先直接转还是先找更接近产品的运营岗？",
+      "source_note_id": "manual-job-001",
+      "source_note_text": "用户对方向切换和收入稳定都有要求，真正卡点不是简历，而是目标优先级没排清。",
+      "related_comments": [
+        {
+          "text": "很多人不是能力不够，是同时想保收入、升 title、换赛道，结果投递策略完全冲突。"
+        }
+      ]
+    },
+    {
+      "id": "J1-002",
+      "category_id": "J1",
+      "category": "方向定位与求职策略",
+      "question": "我校招时间不多了，是先集中投大厂，还是先用中小厂保底？",
+      "source_note_id": "manual-job-002",
+      "source_note_text": "用户的核心问题是求职节奏和成功率平衡，而不是单个简历词句。",
+      "related_comments": [
+        {
+          "text": "求职策略不清时，越努力海投，越难复盘问题到底出在哪。"
+        }
+      ]
+    },
+    {
+      "id": "J1-003",
+      "category_id": "J1",
+      "category": "方向定位与求职策略",
+      "question": "我想转行做数据分析，但之前没有正式数据岗经历，第一步最稳的切入方式是什么？",
+      "source_note_id": "manual-job-003",
+      "source_note_text": "用户有转行愿望，但需要先判断能否做可逆的小试验验证方向。",
+      "related_comments": [
+        {
+          "text": "转行最怕不是晚，而是没有验证路径，直接把全部筹码压上。"
+        }
+      ]
+    },
+    {
+      "id": "J2-001",
+      "category_id": "J2",
+      "category": "经历盘点与素材库",
+      "question": "我做过很多事，但每段都很碎，简历上不知道留哪些经历最有用，怎么筛？",
+      "source_note_id": "manual-job-004",
+      "source_note_text": "用户的问题不是没有经历，而是经历没有整理成可复用的素材库。",
+      "related_comments": [
+        {
+          "text": "简历写不出来，常见原因不是不会写，是没有把事情拆成背景、动作、结果和证据。"
+        }
+      ]
+    },
+    {
+      "id": "J2-002",
+      "category_id": "J2",
+      "category": "经历盘点与素材库",
+      "question": "我在上一份工作里做过很多支持性事务，怎么挖出能拿来求职的成绩和亮点？",
+      "source_note_id": "manual-job-005",
+      "source_note_text": "支持岗用户需要从职责描述里挖出结果、影响和协作价值。",
+      "related_comments": [
+        {
+          "text": "支持型岗位最容易吃亏的不是没价值，而是价值没有被翻译成结果。"
+        }
+      ]
+    },
+    {
+      "id": "J2-003",
+      "category_id": "J2",
+      "category": "经历盘点与素材库",
+      "question": "我换过三份工作，经历很杂，怎么整理成一条能讲通的职业主线？",
+      "source_note_id": "manual-job-006",
+      "source_note_text": "经历杂不一定是缺点，关键是能否抽出持续能力和转向逻辑。",
+      "related_comments": [
+        {
+          "text": "职业主线不是岗位名称一样，而是能力和判断在累积。"
+        }
+      ]
+    },
+    {
+      "id": "J3-001",
+      "category_id": "J3",
+      "category": "JD解析与简历定制",
+      "question": "这个 JD 写了很多要求，我看不出它真正优先筛哪三项，应该怎么拆？",
+      "source_note_id": "manual-job-007",
+      "source_note_text": "用户当前卡点在 JD 解读，而不是写作能力本身。",
+      "related_comments": [
+        {
+          "text": "看不懂 JD，后面所有简历改写和面试准备都会偏。"
+        }
+      ]
+    },
+    {
+      "id": "J3-002",
+      "category_id": "J3",
+      "category": "JD解析与简历定制",
+      "question": "我这份简历投很多岗位都没回复，是关键词不对，还是经历本身不匹配？",
+      "source_note_id": "manual-job-008",
+      "source_note_text": "需要区分是关键词命中不足，还是证据密度不够。",
+      "related_comments": [
+        {
+          "text": "简历不过筛，先别怪运气，先看目标岗位要求和履历证据有没有对上。"
+        }
+      ]
+    },
+    {
+      "id": "J3-003",
+      "category_id": "J3",
+      "category": "JD解析与简历定制",
+      "question": "同一段经历投产品和运营岗位时，应该怎么改写成不同版本？",
+      "source_note_id": "manual-job-009",
+      "source_note_text": "同一经历需要按岗位重点重新组织证据和语言。",
+      "related_comments": [
+        {
+          "text": "不是同一段经历不能复用，而是不能用同一套讲法投不同岗位。"
+        }
+      ]
+    },
+    {
+      "id": "J4-001",
+      "category_id": "J4",
+      "category": "自我介绍与项目叙事",
+      "question": "面试时一说自我介绍就流水账，怎么讲得短但有记忆点？",
+      "source_note_id": "manual-job-010",
+      "source_note_text": "用户缺的是故事主线和定位句，不只是措辞。",
+      "related_comments": [
+        {
+          "text": "自我介绍最怕把时间线讲全，却没让面试官记住你是谁。"
+        }
+      ]
+    },
+    {
+      "id": "J4-002",
+      "category_id": "J4",
+      "category": "自我介绍与项目叙事",
+      "question": "项目是团队一起做的，我怎么讲自己的贡献，既不抢功又不显得很虚？",
+      "source_note_id": "manual-job-011",
+      "source_note_text": "用户需要明确自己的角色边界、动作和判断，而不是抢全部成果。",
+      "related_comments": [
+        {
+          "text": "团队项目不怕多人做，怕的是你说不清自己到底做了哪一段。"
+        }
+      ]
+    },
+    {
+      "id": "J4-003",
+      "category_id": "J4",
+      "category": "自我介绍与项目叙事",
+      "question": "我做的项目结果一般，面试里怎么讲才不会显得没有亮点？",
+      "source_note_id": "manual-job-012",
+      "source_note_text": "结果一般不代表不能讲，关键是复杂度、判断和复盘能否成立。",
+      "related_comments": [
+        {
+          "text": "不是每个项目都要硬吹大成绩，但要能说明你解决了什么难点。"
+        }
+      ]
+    },
+    {
+      "id": "J5-001",
+      "category_id": "J5",
+      "category": "面试准备与模拟追问",
+      "question": "明天一面，我时间不够了，应该优先准备哪几类问题？",
+      "source_note_id": "manual-job-013",
+      "source_note_text": "用户的资源有限，需要优先级，而不是完整题库。",
+      "related_comments": [
+        {
+          "text": "时间不够时，别贪多，先准备高频题、项目追问和反问面试官。"
+        }
+      ]
+    },
+    {
+      "id": "J5-002",
+      "category_id": "J5",
+      "category": "面试准备与模拟追问",
+      "question": "我最怕面试官追问项目细节，一追问就露怯，应该怎么练？",
+      "source_note_id": "manual-job-014",
+      "source_note_text": "当前卡点是细节深度和真实性压力测试。",
+      "related_comments": [
+        {
+          "text": "项目讲不深，面试官往往不是不认可你，而是不确定你是不是真的做过。"
+        }
+      ]
+    },
+    {
+      "id": "J5-003",
+      "category_id": "J5",
+      "category": "面试准备与模拟追问",
+      "question": "二面通常会比一面多问什么，我应该怎么从面试官角度准备？",
+      "source_note_id": "manual-job-015",
+      "source_note_text": "用户需要从面试官视角预测怀疑点和更深层判断点。",
+      "related_comments": [
+        {
+          "text": "一面更多看匹配度，二面常常开始怀疑你的深度、判断和稳定性。"
+        }
+      ]
+    },
+    {
+      "id": "J6-001",
+      "category_id": "J6",
+      "category": "offer比较与谈薪决策",
+      "question": "我现在有两个 offer，一个钱多但岗位杂，一个钱少但方向更正，怎么选？",
+      "source_note_id": "manual-job-016",
+      "source_note_text": "用户的核心矛盾是短期现金与长期路径之间的取舍。",
+      "related_comments": [
+        {
+          "text": "offer 选择不是看谁更好，而是看谁更适合你当前阶段的约束和目标。"
+        }
+      ]
+    },
+    {
+      "id": "J6-002",
+      "category_id": "J6",
+      "category": "offer比较与谈薪决策",
+      "question": "谈薪的时候我怕开高了被刷，开低了又吃亏，应该怎么报预期？",
+      "source_note_id": "manual-job-017",
+      "source_note_text": "用户需要的是边界和谈判区间，不是单个数字。",
+      "related_comments": [
+        {
+          "text": "谈薪不是猜数字，而是先搞清你的底线、市场区间和对方弹性。"
+        }
+      ]
+    },
+    {
+      "id": "J6-003",
+      "category_id": "J6",
+      "category": "offer比较与谈薪决策",
+      "question": "有一家公司催我尽快签，但另一家还没出结果，我该怎么拖得体一点？",
+      "source_note_id": "manual-job-018",
+      "source_note_text": "用户要的是时间管理和关系保护，不是单纯拖延。",
+      "related_comments": [
+        {
+          "text": "延长决策时间不是失礼，前提是你给出合理理由和明确时间点。"
+        }
+      ]
+    },
+    {
+      "id": "J7-001",
+      "category_id": "J7",
+      "category": "面试复盘与下一轮优化",
+      "question": "我最近连续两次终面挂了，应该怎么判断到底是表达问题还是匹配问题？",
+      "source_note_id": "manual-job-019",
+      "source_note_text": "连续挂终面更需要定位失败节点，而不是笼统说运气不好。",
+      "related_comments": [
+        {
+          "text": "复盘最怕只有情绪，没有节点，下一次还是会在同一个地方掉下去。"
+        }
+      ]
+    },
+    {
+      "id": "J7-002",
+      "category_id": "J7",
+      "category": "面试复盘与下一轮优化",
+      "question": "面试官说我经历不错，但不够匹配，这种反馈应该怎么拆？",
+      "source_note_id": "manual-job-020",
+      "source_note_text": "需要区分是岗位方向错，还是经历呈现方式没对准。",
+      "related_comments": [
+        {
+          "text": "不够匹配有两种：真的不匹配，或者你没把匹配证据放到对方最关心的位置。"
+        }
+      ]
+    },
+    {
+      "id": "J7-003",
+      "category_id": "J7",
+      "category": "面试复盘与下一轮优化",
+      "question": "我每次复盘都只会觉得自己没发挥好，怎么把复盘变成下一轮可执行的改动？",
+      "source_note_id": "manual-job-021",
+      "source_note_text": "用户需要从模糊感受转成可修改的具体动作。",
+      "related_comments": [
+        {
+          "text": "有效复盘不是再骂自己一遍，而是把失败点回写进简历、故事和练习清单。"
+        }
+      ]
+    }
+  ]
+}

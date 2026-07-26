@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "scope": "routing, intake, source selection, risk gate, output contract",
+  "not_tested": [
+    "LLM逐题生成答案后的事实准确性",
+    "话术自然度和实际采用效果",
+    "当地法律结论"
+  ],
+  "case_count": 100,
+  "unique_prompt_count": 100,
+  "category_count": 12,
+  "category_distribution": {
+    "C1": 8,
+    "C10": 5,
+    "C11": 7,
+    "C12": 5,
+    "C2": 8,
+    "C3": 11,
+    "C4": 9,
+    "C5": 11,
+    "C6": 8,
+    "C7": 9,
+    "C8": 9,
+    "C9": 10
+  },
+  "risk_distribution": {
+    "high": 15,
+    "low": 77,
+    "medium": 8
+  },
+  "output_sections": [
+    "判断",
+    "建议",
+    "话术",
+    "后续",
+    "风险"
+  ],
+  "reference_coverage": {
+    "taxonomy": 12,
+    "intake_requirements": 12,
+    "decision_rules": 12,
+    "source_selection": 12
+  },
+  "errors": []
+}

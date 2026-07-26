@@ -1,0 +1,846 @@
+{
+  "book_count": 70,
+  "problems": [],
+  "books": {
+    "B01": {
+      "title": "Difficult Conversations: How to Discuss What Matters Most",
+      "source_file": "core_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 3,
+        "counterexamples": 4,
+        "contraindications": 4
+      }
+    },
+    "B02": {
+      "title": "Getting to Yes: Negotiating Agreement Without Giving In",
+      "source_file": "core_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B03": {
+      "title": "Thanks for the Feedback: The Science and Art of Receiving Feedback Well",
+      "source_file": "core_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 3,
+        "counterexamples": 4,
+        "contraindications": 4
+      }
+    },
+    "B04": {
+      "title": "The Power of a Positive No: Save the Deal, Save the Relationship—and Still Say No",
+      "source_file": "core_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 3,
+        "counterexamples": 4,
+        "contraindications": 4
+      }
+    },
+    "B05": {
+      "title": "The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth",
+      "source_file": "core_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B06": {
+      "title": "Managing Up: How to Get What You Need from the People in Charge",
+      "source_file": "core_batch_02.json",
+      "counts": {
+        "core_claims": 4,
+        "decision_rules": 4,
+        "action_steps": 6,
+        "ready_to_use_wording": 2,
+        "counterexamples": 3,
+        "contraindications": 4
+      }
+    },
+    "B07": {
+      "title": "Ask a Manager: How to Navigate Clueless Colleagues, Lunch-Stealing Bosses, and the Rest of Your Life at Work",
+      "source_file": "core_batch_02.json",
+      "counts": {
+        "core_claims": 4,
+        "decision_rules": 4,
+        "action_steps": 6,
+        "ready_to_use_wording": 2,
+        "counterexamples": 3,
+        "contraindications": 4
+      }
+    },
+    "B08": {
+      "title": "Crucial Conversations: Tools for Talking When Stakes Are High, Third Edition",
+      "source_file": "core_batch_02.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 2,
+        "counterexamples": 3,
+        "contraindications": 4
+      }
+    },
+    "B09": {
+      "title": "Nonviolent Communication: A Language of Life",
+      "source_file": "core_batch_02.json",
+      "counts": {
+        "core_claims": 4,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 2,
+        "counterexamples": 4,
+        "contraindications": 4
+      }
+    },
+    "B10": {
+      "title": "HBR Guide to Dealing with Conflict",
+      "source_file": "core_batch_02.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 6,
+        "ready_to_use_wording": 2,
+        "counterexamples": 4,
+        "contraindications": 4
+      }
+    },
+    "B11": {
+      "title": "Getting Along: How to Work with Anyone (Even Difficult People)",
+      "source_file": "core_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 4,
+        "contraindications": 4
+      }
+    },
+    "B12": {
+      "title": "Jerks at Work: Toxic Coworkers and What to Do About Them",
+      "source_file": "core_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 6,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B13": {
+      "title": "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity",
+      "source_file": "core_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B15": {
+      "title": "HBR Guide to Office Politics",
+      "source_file": "core_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 6,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B20": {
+      "title": "The Pyramid Principle: Logic in Writing and Thinking",
+      "source_file": "core_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B27": {
+      "title": "HBR's 10 Must Reads on Performance Management (with bonus article \"Reinventing Performance Management\" by Marcus Buckingham and Ashley Goodall)",
+      "source_file": "core_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B35": {
+      "title": "The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It",
+      "source_file": "core_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B42": {
+      "title": "The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter",
+      "source_file": "core_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B50": {
+      "title": "High Output Management",
+      "source_file": "core_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B70": {
+      "title": "[uncertain] HR Legal Guidance Throughout the Employment Cycle: A Practical Manual for Preventing and Controlling Legal Risks in Corporate Employment (unofficial English translation of the official Chinese title)",
+      "source_file": "core_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B16": {
+      "title": "HBR Guide to Negotiating",
+      "source_file": "round2_batch_01.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 6,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B17": {
+      "title": "Managing Up (HBR 20-Minute Manager Series)",
+      "source_file": "round2_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 6,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B21": {
+      "title": "Storytelling with Data: A Data Visualization Guide for Business Professionals",
+      "source_file": "round2_batch_01.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 6,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 4
+      }
+    },
+    "B22": {
+      "title": "HBR Guide to Persuasive Presentations",
+      "source_file": "round2_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 6,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B28": {
+      "title": "HBR Guide to Delivering Effective Feedback",
+      "source_file": "round2_batch_01.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 6,
+        "action_steps": 8,
+        "ready_to_use_wording": 4,
+        "counterexamples": 6,
+        "contraindications": 4
+      }
+    },
+    "B29": {
+      "title": "How to Be Good at Performance Appraisals: Simple, Effective, Done Right",
+      "source_file": "round2_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B34": {
+      "title": "Boundaries, Priorities, and Finding Work-Life Balance (HBR Work Smart Series)",
+      "source_file": "round2_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B36": {
+      "title": "Breaking Point: Job Stress, Occupational Depression, and the Myth of Burnout",
+      "source_file": "round2_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B37": {
+      "title": "Chatter: The Voice in Our Head, Why It Matters, and How to Harness It",
+      "source_file": "round2_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B38": {
+      "title": "Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life",
+      "source_file": "round2_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B40": {
+      "title": "The Good Enough Job: Reclaiming Life from Work",
+      "source_file": "round2_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B43": {
+      "title": "Master Your Next Move, with a New Introduction: The Essential Companion to The First 90 Days",
+      "source_file": "round2_batch_03.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 6,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B46": {
+      "title": "HBR Guide to Changing Your Career",
+      "source_file": "round2_batch_03.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 6,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B47": {
+      "title": "HBR Guide to Managing Up and Across",
+      "source_file": "round2_batch_03.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 6,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B48": {
+      "title": "Designing Your Life: How to Build a Well-Lived, Joyful Life",
+      "source_file": "round2_batch_03.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 6,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B51": {
+      "title": "The Making of a Manager: What to Do When Everyone Looks to You",
+      "source_file": "round2_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B52": {
+      "title": "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever",
+      "source_file": "round2_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B53": {
+      "title": "HBR Guide to Leading Teams",
+      "source_file": "round2_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B57": {
+      "title": "Teaming: How Organizations Learn, Innovate, and Compete in the Knowledge Economy",
+      "source_file": "round2_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B71": {
+      "title": "[uncertain] Employee Relations: Practical Compliance Management (unofficial English translation of the official Chinese title)",
+      "source_file": "round2_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B41": {
+      "title": "The Work Happiness Method: Master the 8 Skills to Career Fulfillment",
+      "source_file": "round3_batch_01.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B44": {
+      "title": "HBR Guide to Your Professional Growth",
+      "source_file": "round3_batch_01.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B45": {
+      "title": "HBR Guide to Getting the Mentoring You Need",
+      "source_file": "round3_batch_01.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B54": {
+      "title": "HBR Guide to Motivating People",
+      "source_file": "round3_batch_01.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B58": {
+      "title": "The 4 Stages of Psychological Safety: Defining the Path to Inclusion and Innovation",
+      "source_file": "round3_batch_01.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 6,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B72": {
+      "title": "[uncertain] Enterprise Labor Relations Management (unofficial English translation of the official Chinese title)",
+      "source_file": "round3_batch_02.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B75": {
+      "title": "[uncertain] Efficient HR: A Practical Guide to Compliant Enterprise Employment (unofficial English translation of the official Chinese title)",
+      "source_file": "round3_batch_02.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B14": {
+      "title": "Radical Respect: How to Work Together Better",
+      "source_file": "round3_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 4,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B18": {
+      "title": "The Art of Insubordination: How to Dissent and Defy Effectively",
+      "source_file": "round3_batch_02.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B19": {
+      "title": "Acting with Power: Why We Are More Powerful Than We Believe",
+      "source_file": "round3_batch_02.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 4,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B23": {
+      "title": "HBR Guide to Better Business Writing",
+      "source_file": "round3_batch_03.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 8,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 4
+      }
+    },
+    "B24": {
+      "title": "Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations",
+      "source_file": "round3_batch_03.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 9,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 4
+      }
+    },
+    "B25": {
+      "title": "Failure to Communicate: How Conversations Go Wrong and What You Can Do to Right Them",
+      "source_file": "round3_batch_03.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 9,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B30": {
+      "title": "Giving Effective Feedback",
+      "source_file": "round3_batch_03.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 9,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B31": {
+      "title": "Performance Reviews",
+      "source_file": "round3_batch_03.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 10,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B26": {
+      "title": "HBR's 10 Must Reads on Communication",
+      "source_file": "round3_batch_04.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B32": {
+      "title": "The Alliance: Managing Talent in the Networked Age",
+      "source_file": "round3_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B33": {
+      "title": "Forget a Mentor, Find a Sponsor: The New Way to Fast-Track Your Career",
+      "source_file": "round3_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B39": {
+      "title": "A Liberated Mind: How to Pivot Toward What Matters",
+      "source_file": "round3_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B49": {
+      "title": "Tiny Experiments: How to Live Freely in a Goal-Obsessed World",
+      "source_file": "round3_batch_04.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B55": {
+      "title": "Primal Leadership: Unleashing the Power of Emotional Intelligence",
+      "source_file": "round3_batch_05.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B56": {
+      "title": "Resonant Leadership: Renewing Yourself and Connecting with Others Through Mindfulness, Hope, and Compassion",
+      "source_file": "round3_batch_05.json",
+      "counts": {
+        "core_claims": 5,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B59": {
+      "title": "The No Asshole Rule: Building a Civilized Workplace and Surviving One That Isn't",
+      "source_file": "round3_batch_05.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 3,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B60": {
+      "title": "The Asshole Survival Guide: How to Deal with People Who Treat You Like Dirt",
+      "source_file": "round3_batch_05.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 4,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B61": {
+      "title": "The Five Dysfunctions of a Team: A Leadership Fable",
+      "source_file": "round3_batch_05.json",
+      "counts": {
+        "core_claims": 6,
+        "decision_rules": 5,
+        "action_steps": 7,
+        "ready_to_use_wording": 4,
+        "counterexamples": 5,
+        "contraindications": 5
+      }
+    },
+    "B62": {
+      "title": "Multipliers, Revised and Updated: How the Best Leaders Make Everyone Smarter",
+      "source_file": "round3_batch_06.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 10,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B63": {
+      "title": "Nine Lies About Work: A Freethinking Leader's Guide to the Real World",
+      "source_file": "round3_batch_06.json",
+      "counts": {
+        "core_claims": 8,
+        "decision_rules": 7,
+        "action_steps": 9,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B64": {
+      "title": "No Hard Feelings: The Secret Power of Embracing Emotions at Work",
+      "source_file": "round3_batch_06.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 9,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B65": {
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "source_file": "round3_batch_06.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 10,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    },
+    "B66": {
+      "title": "Slow Productivity: The Lost Art of Accomplishment Without Burnout",
+      "source_file": "round3_batch_06.json",
+      "counts": {
+        "core_claims": 7,
+        "decision_rules": 7,
+        "action_steps": 10,
+        "ready_to_use_wording": 3,
+        "counterexamples": 6,
+        "contraindications": 5
+      }
+    }
+  }
+}

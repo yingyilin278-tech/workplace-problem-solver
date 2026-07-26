@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "l2_book_count": 100,
+  "card_count": 100,
+  "ignored_non_l2_cards": [],
+  "required_heading_count": 11,
+  "catalog_l2_count": 100,
+  "checks": [
+    "traceable source",
+    "source access scope",
+    "decision rules",
+    "action steps",
+    "ready-to-use wording",
+    "counterexamples",
+    "contraindications",
+    "rule conflict matrix",
+    "category routing"
+  ],
+  "not_tested": [
+    "full-text fidelity where full text was unavailable",
+    "real-world adoption effect",
+    "local legal conclusion"
+  ],
+  "errors": []
+}
